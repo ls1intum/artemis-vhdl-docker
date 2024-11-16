@@ -1,0 +1,4 @@
+deb http://old-releases.ubuntu.com/ubuntu/ eoan main universe restricted multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ eoan-updates main universe restricted multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ eoan-backports main universe restricted multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ eoan-security main universe restricted multiverse
