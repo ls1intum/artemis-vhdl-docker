@@ -1,0 +1,4 @@
+deb http://old-releases.ubuntu.com/ubuntu/ groovy main universe restricted multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ groovy-updates main universe restricted multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ groovy-backports main universe restricted multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main universe restricted multiverse
